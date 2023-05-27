@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SeaChess"
+             x:Class="SeaChess.MainPage"
+             BackgroundColor="Cyan">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to SeaChess!" 
+               HorizontalOptions="Center"
+               FontSize="Large"
+               TextColor="DarkBlue"
+               Margin="0,0,0,40" />
+        
+        <Label Text="First player name:"  
+               HorizontalOptions="Center"/>
+        <Entry Placeholder="Enter name"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               x:Name="FirstPlayerName"/>
+        
+        <Label Text="First player symbol:"  
+               HorizontalOptions="Center" />
+        <Picker Title="---Select Symbol---"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+               x:Name="FirstPlayerSymbol"/>
+        
+        <Label Text="Second player name:"  
+               HorizontalOptions="Center" />
+        <Entry Placeholder="Enter name"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               x:Name="SecondPlayerName"/>
+        
+        <Label Text="Second player symbol:"  
+               HorizontalOptions="Center" />
+        <Picker Title="---Select Symbol---"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                x:Name="SecondPlayerSymbol"/>
+        
+        <Button Text="Start Game"
+                Clicked="StartGame"
+                Margin="0,20,0,0"
+                />
+    </StackLayout>
+
+</ContentPage>

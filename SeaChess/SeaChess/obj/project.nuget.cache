@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "76WlYiWUXIS3s02eC9zcbtoBQ8FMy173WEde+ohh6Y+23OTukxjQCu8AehOwNSkjB07vbxS9U96VX18GJLjUvw==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\CourseProject\\SeaChess\\SeaChess\\SeaChess\\SeaChess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikolay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nikolay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Nikolay\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

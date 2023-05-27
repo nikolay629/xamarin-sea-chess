@@ -1,0 +1,14 @@
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\bin\Debug\netstandard2.0\SeaChess.deps.json
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\bin\Debug\netstandard2.0\SeaChess.dll
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\bin\Debug\netstandard2.0\SeaChess.pdb
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.csproj.AssemblyReference.cache
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.AssemblyInfoInputs.cache
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.AssemblyInfo.cs
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.csproj.CoreCompileInputs.cache
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.dll
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\SeaChess.pdb
+C:\Xamarin\CourseProject\SeaChess\SeaChess\SeaChess\obj\Debug\netstandard2.0\GamePage.xaml.g.cs

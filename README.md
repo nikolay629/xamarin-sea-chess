@@ -1,1 +1,0 @@
-# xamarin-sea-chess
